@@ -1,4 +1,4 @@
-// const asyncHandler = (fn) => async (req, res, next) => {
+// const asyncHandler = (fn) => async (req, res, next) => { // Higher order function  
 //   try{
 //     await fn(req, res, next)
 
