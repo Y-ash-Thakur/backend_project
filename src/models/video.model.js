@@ -13,13 +13,13 @@ const videoSchema = new Schema(
     },
     title: {
       type: String,
-      require: true
+      required: true
     },
     description: {
       type: String,
       required: true
     },
-    dusration: {
+    duration: {
       type: Number,
       required: true
     },
